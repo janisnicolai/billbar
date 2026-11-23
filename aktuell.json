@@ -1,14 +1,18 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "datum": "2026-11-23",
-  "adresse": "https://github.com/janisnicolai/billbar/releases/download/v0.1.0/BillBar-0.1.0.zip",
-  "sha256": "4f8627165aadc249ec60909fc5809ebdfcc84e0555758f5c453f1a4266d8ca78",
-  "groesse": 35608788,
+  "adresse": "https://github.com/janisnicolai/billbar/releases/download/v0.2.0/BillBar-0.2.0.zip",
+  "sha256": "ed70d8d32a59b6901c8c038bd7e06db12f3b8fca031a88a344ddec1f4cf97f9e",
+  "groesse": 36375613,
   "neu": [
-    "Erste Fassung von BillBar",
-    "Rechnungen, Belege, Bank, Umsatzsteuer-Voranmeldung und EÜR",
-    "Updates melden sich ab jetzt von selbst"
+    "Hilfe: Fragen zum Programm und zu Deinen Zahlen an ein KI-Modell auf Deinem Mac",
+    "Jetzt aktualisieren: ein Knopf holt Belege, ordnet Zahlungen zu und sichert die Daten",
+    "Das Murmeltier zeigt, ob alles erledigt ist",
+    "Erinnerung an Abgabefristen mit Fahrplan der nächsten zwölf Monate",
+    "Eingangsordner: Belege ohne Apple Mail",
+    "Private Konten und private Ausgaben direkt aus dem Kontoauszug",
+    "Aufgeräumte Oberfläche, Erklärungen hinter dem Info-Symbol"
   ],
   "seite": "https://github.com/janisnicolai/billbar/releases/latest",
-  "unterschrift": "6sQhKVAeFSTcn1P8gRiIOSca0JSG+rv+y6Kztex4IU9p9mH89caBBzAs+AqbpdtviK+lYgr/LSwHcCJBb+FTBw=="
+  "unterschrift": "Q9fbYAAgyv117yfgJk2MASzbEXbS+v/xzxSLF6gd91UycCR26zoaWGGs7V68xx1QDmTUhWEJTZC5wUTcy8fhDg=="
 }
