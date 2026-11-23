@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "datum": "2026-11-23",
+  "adresse": "https://github.com/janisnicolai/billbar/releases/download/v0.1.0/BillBar-0.1.0.zip",
+  "sha256": "4f8627165aadc249ec60909fc5809ebdfcc84e0555758f5c453f1a4266d8ca78",
+  "groesse": 35608788,
+  "neu": [
+    "Erste Fassung von BillBar",
+    "Rechnungen, Belege, Bank, Umsatzsteuer-Voranmeldung und EÜR",
+    "Updates melden sich ab jetzt von selbst"
+  ],
+  "seite": "https://github.com/janisnicolai/billbar/releases/latest",
+  "unterschrift": "6sQhKVAeFSTcn1P8gRiIOSca0JSG+rv+y6Kztex4IU9p9mH89caBBzAs+AqbpdtviK+lYgr/LSwHcCJBb+FTBw=="
+}
